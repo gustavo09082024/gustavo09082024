@@ -1,4 +1,4 @@
-## Hi there 👋
+ gustavo09082024
 
 <!--
 **gustavo09082024/gustavo09082024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://media.tenor.com/w0mONcLVXiMAAAAj/flamengo-cora%C3%A7%C3%A3o.gif)
